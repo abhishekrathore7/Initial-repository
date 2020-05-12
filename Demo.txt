@@ -1,3 +1,4 @@
 Hello World!!
 Welcome to the the git and github tutorial....
- 
+Git and GitHub is really a cool software to use.
+hey there!i am using git. 
